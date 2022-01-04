@@ -1,0 +1,2 @@
+file.txt filter=lfs diff=lfs merge=lfs -text
+agronovae.taz.gz filter=lfs diff=lfs merge=lfs -text
